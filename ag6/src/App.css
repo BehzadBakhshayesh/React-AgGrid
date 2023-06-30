@@ -1,0 +1,12 @@
+.example{
+    background-color: rgba(125,46,200,0.5);
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.cell-class{
+    white-space: normal;
+
+}
